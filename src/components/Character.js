@@ -9,6 +9,7 @@ const CharCard = styled.section`
     margin: 2em auto;
     border: 30px solid #04b0c8;
     border-radius: 30px;
+    box-shadow: 1px 1px 20px #35ccaf;
 `;
 
 const ImgDiv = styled.div`
